@@ -8,7 +8,8 @@
  "field_order": [
   "section_break_9xe7",
   "name1",
-  "field"
+  "field",
+  "city"
  ],
  "fields": [
   {
@@ -25,11 +26,16 @@
    "fieldname": "field",
    "fieldtype": "Data",
    "label": "field"
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Data",
+   "label": "city"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-08-07 12:45:12.868322",
+ "modified": "2024-08-07 12:57:58.869964",
  "modified_by": "Administrator",
  "module": "library_management",
  "name": "Bus Stand",
