@@ -228,8 +228,9 @@ app_license = "mit"
 # }
 
 fixtures = [
-  {
-    "dt":"AirPort"
-  }
+  'Custom Field'
+  # {
+  #   "dt":"Bus Stand"
+  # }
 
 ]
