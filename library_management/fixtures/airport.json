@@ -1,0 +1,23 @@
+[
+ {
+  "airport_name": "Mumbai",
+  "docstatus": 0,
+  "doctype": "AirPort",
+  "modified": "2024-08-07 11:57:06.159159",
+  "name": "Mumbai"
+ },
+ {
+  "airport_name": "Goa",
+  "docstatus": 0,
+  "doctype": "AirPort",
+  "modified": "2024-08-07 11:57:12.450256",
+  "name": "Goa"
+ },
+ {
+  "airport_name": "pune",
+  "docstatus": 0,
+  "doctype": "AirPort",
+  "modified": "2024-08-07 11:57:19.132233",
+  "name": "pune"
+ }
+]
